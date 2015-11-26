@@ -21,9 +21,16 @@ Produtos https://projetophp-renataalberti.c9users.io/menu/produtos
 Contato https://projetophp-renataalberti.c9users.io/menu/contato
 
 #Página para ADM
-Restrito (login) https://projetophp-renataalberti.c9users.io/menu/restrito
-Cadastrar produto https://projetophp-renataalberti.c9users.io/restrito/adm
-Sair https://projetophp-renataalberti.c9users.io/menu/sair
+Restrito (login) https://projetophp-renataalberti.c9users.io/menu/restrito <br>
+Cadastrar produto https://projetophp-renataalberti.c9users.io/restrito/adm <br>
+Sair https://projetophp-renataalberti.c9users.io/menu/sair <br>
+
+#Página para Cliente
+Cadastre-se https://projetophp-renataalberti.c9users.io/menu/cadastro <br>
+Entrar https://projetophp-renataalberti.c9users.io/menu/entrar <br>
+Sair Sair https://projetophp-renataalberti.c9users.io/menu/sair <br>
+
+
 
 
 
